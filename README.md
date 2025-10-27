@@ -36,6 +36,8 @@ Código
 ├── index.html
 └── README.md
 📸 Prévia da Interface
+<img width="1890" height="893" alt="image" src="https://github.com/user-attachments/assets/72e8aab7-3ecd-4ed5-b329-75763e6739c3" />
+
 Header fixo com links para Home, Serviços, Contato e Sobre nós
 
 Botão "Junte-se" com destaque visual
